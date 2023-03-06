@@ -18,6 +18,6 @@
 
  
 <p align="Center">
-<a href="https://github.com/Mahtab12381/Winged-Wonder/releases/tag/exe"><img align="center" src="https://cdn.pixabay.com/photo/2016/02/08/19/52/button-1187460_960_720.png" alt="sani_mahtab" height="90" width="200" /></a><br>
+<a href="https://github.com/Mahtab12381/Winged-Wonder/releases/tag/exe"><img align="center" src="https://cdn.pixabay.com/photo/2016/02/08/19/52/button-1187460_960_720.png" alt="Download Now" height="90" width="200" /></a><br>
 Click here
 <p>
