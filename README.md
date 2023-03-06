@@ -13,4 +13,11 @@
 <br>
 
  Overall, Winged Wonder is a fun and addictive game that is perfect for those looking to pass the time or compete with friends. Its engaging gameplay and competitive features make it a must-play for anyone who loves mobile gaming.
+ 
+  ### So to enjoy the game Download Now !
 
+ 
+<p align="Center">
+<a href="https://github.com/Mahtab12381/Winged-Wonder/releases/tag/exe"><img align="center" src="https://cdn.pixabay.com/photo/2016/02/08/19/52/button-1187460_960_720.png" alt="sani_mahtab" height="90" width="200" /></a><br>
+Click here
+<p>
