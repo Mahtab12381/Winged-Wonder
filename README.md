@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img height="180em" Width="180em"src="https://github.com/Mahtab12381/Winged-Wonder/blob/main/robin.png?raw=true" align = "center"/>
+<img height="180em" Width="180em"src="https://github.com/Mahtab12381/Winged-Wonder/blob/main/N2.png?raw=true" align = "center"/>
 </p>
 
  Winged Wonder is a revamped version of the popular game, Flappy Bird. This game has been developed using Unity game engine and features vibrant graphics and engaging gameplay. The objective of the game is to help the bird flap its wings and navigate through various obstacles in order to earn points.
